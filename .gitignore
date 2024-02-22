@@ -2,4 +2,5 @@
 *.out
 !*.*
 /output
-/learnRust/target
+/rust/target
+Cargo.lock
