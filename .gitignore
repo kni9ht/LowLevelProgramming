@@ -4,3 +4,4 @@
 /output
 /rust/target
 Cargo.lock
+/c/ASMandC/build
